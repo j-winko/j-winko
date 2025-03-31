@@ -3,7 +3,7 @@
 <!--
 **j-winko/j-winko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on projects utilizing Python and SQL for data anlysis in the financial crime and AML space.
 - 🌱 I’m currently learning how to conduct data analysis using Python and SQL.
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with finding resources to learn Python and SQL.
 - 💬 Ask me about my current projects. I'm currently developing a KYC Analyst Dashboard and a training platform for learning different financial crime scenarios.
 - 📫 How to reach me: github message or by LinkedIn: https://www.linkedin.com/in/jnwinko/. 
--->
+
